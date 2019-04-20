@@ -1,2 +1,2 @@
 # Begining-R
-R programing for beginer in Human Development
+R programing for beginer researchers in Human Development
